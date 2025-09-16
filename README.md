@@ -64,13 +64,16 @@
 
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 
 
 
 ----
 
 
+</div>
+<div>
+  <h2>Area destinada a projetos futuros</h2>
 </div>
 
 
