@@ -41,13 +41,6 @@
 
 <br/>
 
-## 🚀 Projetos em Destaque
-- **Aplicações Web & PWAs:** Desenvolvimento de sistemas de gestão (como o FiGer) utilizando React, TypeScript e banco de dados.
-- **Ferramentas e Extensões:** Criação de automações e extensões de navegador (Plasmo) para manipulação de mídia.
-- **Audiovisual & Jogos:** Visualizadores de palco reativos ao áudio, sound design com sintetizadores virtuais (Serum, Diva) e prototipagem de jogos na Godot Engine.
-
-<br/>
-
 ## 📫 Conecte-se comigo
 
 <a href="https://github.com/CarlosSantos-0" target="_blank">
