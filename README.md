@@ -1,79 +1,66 @@
-![Header](github-header-banner.png)
-
-<h2>Olá, atualmente sou estudante de analise e desenvolvimento de sistemas, no instituto federal de Bragança Paulista. ✌️ </h2>
-<div>
+<div align="center">
+  <img src="github-header-banner.png" alt="Header Banner" />
   
-
-  
-
-<br/>  
-
-
-## Habilidades  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Linguagens  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+  <h1>Olá, eu sou o Carlos! ✌️</h1>
+  <p>Estudante de Análise e Desenvolvimento de Sistemas no IFSP | Desenvolvedor Fullstack | Produtor Musical</p>
 </div>
 
-</td><td valign="top" width="33%">
+<br/>
 
+## 👨‍💻 Sobre Mim
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no IFSP Campus Bragança Paulista.
+- 💼 Atualmente atuando na área administrativa na Santher, com background técnico em eletrônica.
+- 🚀 Foco no desenvolvimento Web Fullstack (React, TypeScript, Python, Flask) e automações.
+- 🎵 Produtor musical independente e entusiasta da criação audiovisual nas horas vagas.
 
+<br/>
 
-### Design e Musica  
-<div align="center">  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://duckduckgo.com/i/07e4fc1ba29c1f0e.png" alt="FL studio" height="50" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdown-my.img.susercontent.com%2Ffile%2Fmy-11134207-7r98w-luiheoqwldxpeb&f=1&nofb=1&ipt=b31b31301057af4f4c7bc86d6bcbc42640e2b035b4f6f38aa4e3b7471bf8c57f" alt="Xfer Serum" height="50" /></a>  
+## 🛠️ Habilidades e Tecnologias
+
+### 💻 Desenvolvimento Web e Software
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="Godot" />
 </div>
 
+### 🎨 Áudio e Design
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/FL_Studio-000000?style=for-the-badge&logo=fl-studio&logoColor=white" alt="FL Studio" />
+  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/After_Effects-%239999FF.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-db1e36?style=for-the-badge&logo=davinci-resolve&logoColor=white" alt="DaVinci Resolve" />
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge" alt="Aseprite" />
+</div>
 
+<br/>
 
+## 🚀 Projetos em Destaque
+- **Aplicações Web & PWAs:** Desenvolvimento de sistemas de gestão (como o FiGer) utilizando React, TypeScript e banco de dados.
+- **Ferramentas e Extensões:** Criação de automações e extensões de navegador (Plasmo) para manipulação de mídia.
+- **Audiovisual & Jogos:** Visualizadores de palco reativos ao áudio, sound design com sintetizadores virtuais (Serum, Diva) e prototipagem de jogos na Godot Engine.
 
+<br/>
 
-</td></tr></table>  
+## 📫 Conecte-se comigo
 
-<br/>  
-
-
-## Connect with me  
-<a href="https://github.com/https://github.com/CarlosSantos-0/CarlosSantos-0/edit/main/README.md" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://github.com/CarlosSantos-0" target="_blank">
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/carlos-santos-179126365/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+<a href="https://www.linkedin.com/in/carlos-santos-179126365/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>
 
-<br/>  
+<br/><br/>
 
+## 📊 GitHub Stats
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CarlosSantos-0&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-
-
-----
-
-
-
-
-----
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosSantos-0&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="Estatísticas do GitHub" />
 </div>
-<div>
-  <h2>Area destinada a projetos futuros</h2>
-</div>
-
-
